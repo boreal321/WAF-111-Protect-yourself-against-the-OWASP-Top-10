@@ -5,7 +5,7 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "WAF 111: Protect yourself against the OWASP Top 10"
+classname = "WAF 111: Protect Yourself Against the OWASP Top 10"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
 github_repo = "https://github.com/f5devcentral/your-class-repo"
