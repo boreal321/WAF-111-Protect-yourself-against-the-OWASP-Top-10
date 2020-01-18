@@ -1,4 +1,4 @@
-F5 Agility Labs - Index
+WAF 111: Protect Yourself Against the OWASP Top 10 - Index
 =======================
 
 Welcome
@@ -16,5 +16,3 @@ Welcome to the |classbold| lab at F5 Agility |year|
 
    intro*
    class*/class*
-   examples
-   markdown
