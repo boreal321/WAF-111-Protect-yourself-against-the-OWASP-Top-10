@@ -1,5 +1,4 @@
-Lab – Install the WAF Tester Tool
----------------------------------
+## F5 WAF Tester
 
 Clone the repo
 
@@ -64,17 +63,3 @@ Quickly check how many tests passed and failed
 
     grep true report.json |wc -l
     grep false report.json |wc -l
-
-
-Task – Task here
-~~~~~~~~~~~~~~~~
-
-
-   .. DANGER:: Knives are sharp and can cut you.  Please be careful.
-
-      |knivessharp|
-
-#. Carefully remove the |bip| from it's packaging
-#. Set it down on a stable surface
-
-.. |knivessharp| image:: http://theinkkitchen.com/wp-content/uploads/2014/08/Screenshot-2014-07-30-12.22.44.png

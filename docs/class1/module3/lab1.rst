@@ -1,10 +1,10 @@
-Lab – Use the OWASP Compliance Dashboard
-----------------------------------------
+Lab – Install the WAF Tester Tool
+---------------------------------
 
-description here
+.. mdinclude:: f5_waf_tester.md
 
-Task – Task here
-~~~~~~~~~~~~~~~~
+Task – Title here
+~~~~~~~~~~~~~~~~~
 
 
    .. DANGER:: Knives are sharp and can cut you.  Please be careful.

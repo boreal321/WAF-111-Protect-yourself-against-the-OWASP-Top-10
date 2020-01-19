@@ -85,7 +85,8 @@ print "on_snops = %s" % on_snops
 extensions = [
   'sphinxjp.themes.basicstrap',
   'sphinx.ext.todo',
-  'sphinx.ext.autosectionlabel'
+  'sphinx.ext.autosectionlabel',
+  'm2r'
 ]
 
 if 'googleanalytics_id' in locals() and len(googleanalytics_id) > 0:
