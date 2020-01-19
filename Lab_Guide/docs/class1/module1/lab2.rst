@@ -1,17 +1,12 @@
-Lab – Install a |bip| |ve| image on a Hypervisor
-------------------------------------------------
+Lab – Use the Guided Configuration to Build a WAF Policy
+--------------------------------------------------------
 
-.. TODO:: Needs lab description
+Use the Guided Configuration to build a WAF policy.
 
-In the previous lab we learned how to download the |bip| |ve| image.  Now, we
-can install the image onto a hypervisor.
+Task – Start the Guided Configuration utility
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Task – Upload the image to your Hypervisor
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. TODO:: Needs task description
-
-In this task you will upload the image to your hypervisor.
+In this task you will ...
 
 Follow these steps to complete this task:
 
@@ -24,13 +19,10 @@ Follow these steps to complete this task:
 
 #. Great!  You're done
 
-Task – Start a |bip| |ve| Instance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Task – Apply the Policy to an Existing Virtual Server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO:: Needs task description
-
-In this task we will start and instance of |bip| using the image uploaded in
-the previous task.
+quick description
 
 Follow these steps to complete this task:
 

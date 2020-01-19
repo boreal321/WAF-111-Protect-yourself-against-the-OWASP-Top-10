@@ -1,8 +1,6 @@
 Getting Started
 ---------------
 
-.. TODO:: Complete getting started instructions
-
 Please follow the instructions provided by the instructor to start your
 lab and access your jump host.
 
@@ -14,8 +12,6 @@ lab and access your jump host.
 Lab Topology
 ~~~~~~~~~~~~
 
-.. TODO:: Complete lab topology
-
 The following components have been included in your lab environment:
 
 - 2 x F5 BIG-IP VE (v12.1)
@@ -25,8 +21,6 @@ The following components have been included in your lab environment:
 
 Lab Components
 ^^^^^^^^^^^^^^
-
-.. TODO:: Complete lab components table
 
 The following table lists VLANS, IP Addresses and Credentials for all
 components:

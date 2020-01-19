@@ -1,10 +1,7 @@
-Module – Installing a BIG-IP Virtual Edition
-=============================================
+Module – Create a new BIG-IP Advanced WAF Policy for an existing web application 
+================================================================================
 
-.. TODO:: Needs module description
-
-In this module you will learn how to install a |f5| |bip| |ve| into your
-environment.
+In this module you will learn how to create a WAF policy using the Guided Configuration utility.
 
 .. toctree::
    :maxdepth: 1

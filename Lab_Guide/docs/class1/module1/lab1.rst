@@ -1,17 +1,10 @@
-Lab – Download the |bip| |ve| Image
------------------------------------
+Lab – Explore the Security Screens
+----------------------------------
 
-.. TODO:: Needs lab description
-
-This lab will teach you how to download the |bip| |ve| image to your system.
+This lab will guide you through the Security screens using the BIG-IP web interface, TMUI .
 
 Task – Open a Web Browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. TODO:: Needs task description
-
-In this task you will open a web browser and navigate to the |f5| Downloads
-site.
 
 .. NOTE:: An account is required to download software.  You can create one at
    https://login.f5.com/resource/registerEmail.jsp
@@ -27,8 +20,6 @@ Follow these steps to complete this task:
 
 Task – Download the Image
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. TODO:: Needs task description
 
 In this task we will download the |f5| |bip| |ve| image to your system
 

@@ -1,10 +1,7 @@
-Module – Installing a BIG-IP Appliance
-======================================
+Module – Mitigate OWASP Top 10 Attacks with BIG-IP Advanced WAF
+===============================================================
 
-.. TODO:: Needs module description
-
-In this module you will learn how to install a |f5| |bip| Appliance into your
-datacenter.
+description here
 
 .. toctree::
    :maxdepth: 1

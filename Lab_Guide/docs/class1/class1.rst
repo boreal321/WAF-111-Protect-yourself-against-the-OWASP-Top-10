@@ -8,7 +8,7 @@ This class covers the following topics:
 - Introduction to the OWASP Top 10
 - Create a new BIG-IP Advanced WAF Policy for an existing web application
 - Leverage F5 WAF Tester to assess vulnerabilities in an existing web application
-– Explore the BIG-IP OWASP Top 10 Compliance Dashboard
+- Explore the BIG-IP OWASP compliance dashboard
 - IP OWASP Top 10 Dashboard to mitigate OWASP Top 10 attacks
 - Leverage F5 WAF Tester to assess vulnerabilities in an existing web application
 
